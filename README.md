@@ -59,11 +59,41 @@ The analysis of attrition by years at the company reveals:
 
 The highest attrition is occurring within the first 5 years of employment. This indicates that new hires and early-career employees are more likely to leave. This insight highlights the importance of improving the onboarding process, providing early engagement, and offering career progression paths to retain new employees.
 
-### 7. Attrition by Years at Company
+### 7. Attrition by Job Role
 The attrition breakdown by job role is as follows:
 ![image](https://github.com/user-attachments/assets/6b83bc74-4a05-42a3-86b3-a8715c466584)
 
 The highest attrition rate is seen among Laboratory Technicians (26%) and Sales Executives (24%). These roles are critical to business operations, and high turnover in these positions could have operational and financial implications. Addressing job satisfaction, workload, and growth opportunities for these roles is essential.
+
+## Recommendations for Reducing Attrition
+
+Based on the findings from the dashboard, the following actionable recommendations are suggested:
+
+### 1. Reevaluate Compensation Packages
+Ensure that salary packages are competitive in the market.
+Consider introducing performance-based incentives and benefits packages to increase job satisfaction among employees, especially in lower salary brackets.
+
+### 2. Focus on Retaining Mid-Level Professionals (26-35 Age Group)
+Provide leadership training programs and clear career advancement paths for mid-career professionals.
+Introduce job rotation programs to keep this demographic engaged and motivated.
+
+### 3. Improve Onboarding and Employee Engagement Programs
+Strengthen the onboarding process to ensure that new employees are supported and aligned with company values.
+Conduct regular check-ins and offer mentorship programs during the first 5 years of employment to reduce early attrition.
+
+### 4. Address Issues in High-Risk Job Roles
+Focus on retaining Laboratory Technicians and Sales Executives by improving their working conditions, recognizing their contributions, and offering growth opportunities.
+Conduct exit interviews with employees leaving these roles to identify specific pain points.
+
+## Conclusion
+The updated HR Analytics Dashboard highlights critical areas of concern related to employee attrition. The insights show that attrition is primarily driven by:
+- Low salary satisfaction
+- Lack of career progression opportunities
+- High turnover in key job roles
+
+Implementing the recommendations will help the organization to reduce attrition, improve employee satisfaction, and enhance operational stability.
+
+
 
 
 
