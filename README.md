@@ -42,3 +42,35 @@ The attrition data by age group shows:
 
 The 26-35 age group continues to show the highest attrition. This demographic typically includes mid-career professionals who are often in demand across industries. This indicates the need to focus on career advancement opportunities, job satisfaction, and work-life balance for this age group.
 
+### 5. Attrition by Salary Slab
+The distribution of attrition by salary slab shows:
+- Up to 5K: 158 employees (69%)
+- 5K-10K: 48 employees (21%)
+- 10K-15K: 18 employees (8%)
+- 15K+: 5 employees (2%)
+
+The majority of employees leaving the company are in the lowest salary bracket (up to 5K). This suggests that salary dissatisfaction could be a major factor driving attrition. Reevaluating compensation packages to ensure competitiveness in the market is a key recommendation.
+
+### 6. Attrition by Years at Company
+The analysis of attrition by years at the company reveals:
+- 0-5 years: 57 employees
+- 6-10 years: 16 employees
+- 11+ years: 2 employees
+
+The highest attrition is occurring within the first 5 years of employment. This indicates that new hires and early-career employees are more likely to leave. This insight highlights the importance of improving the onboarding process, providing early engagement, and offering career progression paths to retain new employees.
+
+### 7. Attrition by Years at Company
+The attrition breakdown by job role is as follows:
+![image](https://github.com/user-attachments/assets/6b83bc74-4a05-42a3-86b3-a8715c466584)
+
+The highest attrition rate is seen among Laboratory Technicians (26%) and Sales Executives (24%). These roles are critical to business operations, and high turnover in these positions could have operational and financial implications. Addressing job satisfaction, workload, and growth opportunities for these roles is essential.
+
+
+
+
+
+
+
+
+
+
