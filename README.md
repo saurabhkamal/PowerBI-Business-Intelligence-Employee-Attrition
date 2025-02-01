@@ -1,4 +1,4 @@
-# PowerBI-Business-Intelligence-Employee-Attrition
+# Business-Intelligence-Employee-Attrition
 
 ![image](https://github.com/user-attachments/assets/094fa596-6a79-4b0a-a6b8-63a2c9798827)
 
